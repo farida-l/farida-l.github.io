@@ -1,0 +1,35 @@
+body {
+  background-color: #F6AF86;
+  font-family: arial;
+}
+
+ hr{
+   width: 300px;
+ }
+
+
+a:hover{
+  color:white;
+  transition: 0.5s
+}
+
+h3{
+  color: #528C16
+}
+
+.size{
+  width:200
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  background-color:#EA9A3A;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  opacity: 0.5;
+}
