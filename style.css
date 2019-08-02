@@ -5,7 +5,7 @@ body {
 
  hr{
    width: 300px;
- }
+
 
 
 a:hover{
@@ -13,12 +13,12 @@ a:hover{
   transition: 0.5s
 }
 
-h3{
-  color: #528C16
+h2{
+  color: #E38515SSS
 }
 
 .size{
-  width:200
+  width:100
 }
 img{
   display: block;
